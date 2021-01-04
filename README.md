@@ -1,5 +1,7 @@
 # NICA Map
 
+This repo contains trail resources used for the NICA [team map](http://nebraskamtb.org/teams/).  
+
 ## Data Source Options
 
 |                  | [MTB Project](https://www.mtbproject.com/) | [Trailforks](https://www.trailforks.com/) | [Strava](https://www.strava.com) |
